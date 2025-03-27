@@ -75,9 +75,11 @@ Durante os testes, utilizamos:
 Criamos o layout da PCB no **Proteus** para facilitar a montagem do circuito.  
 
 📷 **Imagem do layout:**  
-![PCB](pcb/pcb_layout.png)  
+![image](https://github.com/user-attachments/assets/7d6862a7-ce27-4c02-bad7-6c7ff2cfb20a)
+A Placa de Circuito Impresso (PCB) foi projetada utilizando o software Proteus para acomodar todos os componentes necessários ao funcionamento do retificador de onda completa. A placa foi projetada para ser compacta e eficiente, garantindo que o layout minimize interferências e otimize a dissipação de calor, principalmente devido à corrente que passará pela placa durante a operação do retificador.
 
-💾 **Arquivos disponíveis em:** [`/pcb/`](pcb/)  
+
+
 
 ---
 
