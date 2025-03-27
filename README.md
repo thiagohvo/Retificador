@@ -28,3 +28,9 @@ Resistor (R1 - 220Ω) e LED (D1)
 O LED indica quando há tensão na saída.
 O resistor limita a corrente para evitar que o LED queime.
 
+
+![image](https://github.com/user-attachments/assets/e3a89ca9-a700-49c2-adea-f02435ddaf96)
+
+![image](https://github.com/user-attachments/assets/883ebcad-d2ac-49c2-8f14-17c768ad7e55)
+
+
