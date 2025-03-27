@@ -21,8 +21,8 @@ Na prática, utilizamos um **Arduino** para testes e um **multímetro** para med
 ### 🔧 **Circuito e Componentes Utilizados**  
 
 Aqui está o esquemático do circuito, projetado no Proteus:  
+![image](https://github.com/user-attachments/assets/0cb72a71-5807-45d0-a659-506533ed87a5)
 
-![Esquemático](fotos/esquematico.png)  
 
 ### 📋 **Lista de Componentes**  
 
@@ -56,7 +56,12 @@ Durante os testes, utilizamos:
 - **Multímetro** para medir as tensões e correntes em diferentes pontos do circuito.  
 
 📷 **Fotos da montagem prática:**  
-![Foto da Montagem](fotos/montagem_real.jpg)  
+![image](https://github.com/user-attachments/assets/2f000352-ee65-48fc-9144-a4afb91cdb96)
+![image](https://github.com/user-attachments/assets/d70582a4-2bde-4ae2-b1a2-4daed1114e59)
+![image](https://github.com/user-attachments/assets/e1d0558d-c711-4674-beac-ccc297e3c330)
+
+
+  
 
 📈 **Resultados Obtidos:**  
 - A saída foi regulada corretamente para **5V DC**.  
@@ -100,7 +105,7 @@ Geramos um **modelo 3D da placa** para visualização da disposição dos compon
 
 Este projeto demonstrou como um **retificador de onda completa** pode ser utilizado para alimentar circuitos eletrônicos de forma estável e eficiente. O uso do **Arduino e multímetro** permitiu validar os resultados, garantindo a funcionalidade da saída de **5V DC**.  
 
-📌 **Autor:** Seu Nome  
+📌 **Autor:** Thiago de Oliveira
 📅 **Data:** Março de 2025  
 
 ---
