@@ -21,7 +21,8 @@ Na prática, utilizamos um **Arduino** para testes e um **multímetro** para med
 ### 🔧 **Circuito e Componentes Utilizados**  
 
 Aqui está o esquemático do circuito, projetado no Proteus:  
-![image](https://github.com/user-attachments/assets/0cb72a71-5807-45d0-a659-506533ed87a5)
+![image](https://github.com/user-attachments/assets/58c9c714-3179-4090-9788-f5db36153648)
+
 
 
 ### 📋 **Lista de Componentes**  
