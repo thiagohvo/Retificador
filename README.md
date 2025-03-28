@@ -88,8 +88,13 @@ A Placa de Circuito Impresso (PCB) foi projetada utilizando o software Proteus p
 Geramos um **modelo 3D da placa** para visualização da disposição dos componentes.  
 
 📷 **Imagem do modelo 3D:**  
-![image](https://github.com/user-attachments/assets/ccf71158-f3b2-4854-b3c1-03731a551057)
-![image](https://github.com/user-attachments/assets/e3e38bfa-8db2-4b7e-97e5-2209038607d2)
+parte de cima
+![image](https://github.com/user-attachments/assets/c003e711-72c3-40d4-80da-a9c1a2358435)
+
+parte de baixo
+![image](https://github.com/user-attachments/assets/f7a6b1f5-bd5c-4b05-9c88-22b4733fee70)
+
+
 
 
 ---
