@@ -90,9 +90,26 @@ Geramos um **modelo 3D da placa** para visualização da disposição dos compon
 
 📷 **Imagem do modelo 3D:**  
 ## **parte da frente**
+**mostra uma renderização 3D de uma placa de circuito eletrônico com vários componentes montados em uma placa de circuito impresso (PCI) verde.
+**A placa apresenta:
+
+**Um componente retangular branco central (rotulado como U1)
+**Resistores (R1)
+**Capacitores (C1, C2, C3)
+**Um diodo (D1)
+**Outros componentes como pinos de jumper (JP)
+**Escala de medição de 50mm no canto inferior direito
+**Componentes nas cores amarela e azul
+**Uma visão detalhada em perspectiva 3D mostrando a altura e o posicionamento dos componentes
 ![image](https://github.com/user-attachments/assets/c003e711-72c3-40d4-80da-a9c1a2358435)
 
 ## **parte de trás**
+**vista do layout da PCI do mesmo circuito, mostrando:
+
+**A base verde da placa de circuito
+**Trilhas de cobre conectando diversos pontos
+**Furos de montagem para componentes
+**O layout dos caminhos de conexão do circuito
 ![image](https://github.com/user-attachments/assets/f7a6b1f5-bd5c-4b05-9c88-22b4733fee70)
 
 
